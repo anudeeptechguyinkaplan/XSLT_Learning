@@ -1,0 +1,13 @@
+
+	<DIV>Some binary operations</DIV>
+	1+2
+		= 3 (from arith.xsl)
+	<br xmlns:math="http://exslt.org/math" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	1-2
+		= -1 
+		(from arith.xsl)
+	<br xmlns:math="http://exslt.org/math" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	1*2
+		= 2 
+		(from arith.xsl)
+	<br xmlns:math="http://exslt.org/math" xmlns:xs="http://www.w3.org/2001/XMLSchema">
