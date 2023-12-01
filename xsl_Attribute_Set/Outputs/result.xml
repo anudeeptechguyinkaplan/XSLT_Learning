@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	
+		<fo:block xmlns:fo="https://www.w3.org/1999/XSL/Format" font-size="12pt" font-weight="bold" quadding="start">The First Heading</fo:block>
+	
+	
+		<fo:block xmlns:fo="https://www.w3.org/1999/XSL/Format" font-size="12pt" font-weight="bold" quadding="start">The Next Heading</fo:block>
+	
