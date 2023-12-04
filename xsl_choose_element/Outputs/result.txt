@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	
+				(small)
+			
+		
+		
+		9
+	<BR/>
+	
+				(medium)
+			
+		
+		
+		19
+	<BR/>
+	
+				(large)
+			
+		
+		
+		29
+	<BR/>
