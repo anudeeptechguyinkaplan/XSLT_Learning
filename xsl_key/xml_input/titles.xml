@@ -1,0 +1,7 @@
+﻿<?xml version='1.0'?>
+<?xml-stylesheet type="text/xsl" href="key_sample.xsl" ?>
+<titles>
+	<book title="XML Today" author="David Perry"/>
+	<book title="XML and Microsoft" author="David Perry"/>
+	<book title="XML Productivity" author="Jim Kim"/>
+</titles>
