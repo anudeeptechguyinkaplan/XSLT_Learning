@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="message.xsl" ?><records>
+	<record>
+		<name>David Perry</name>
+		<address>222 Cherry</address>
+		<phone>555-797-79797</phone>
+	</record>
+	<record>
+		<name/>
+		<address>312 Elm</address>
+		<phone>555-797-79797</phone>
+	</record>
+</records>
