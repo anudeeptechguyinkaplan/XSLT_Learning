@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="refChoose.xsl" ?>
+<orders>
+	<order>
+		<lineitem/>
+		<lineitem/>
+		<total>9</total>
+	</order>
+	<order>
+		<lineitem/>
+		<lineitem/>
+		<total>19</total>
+	</order>
+	<order>
+		<lineitem/>
+		<lineitem/>
+		<total>29</total>
+	</order>
+</orders>
