@@ -1,0 +1,5 @@
+﻿<?xml version='1.0'?>
+<messages>
+	<message name="msg23">Error 23: The drive is full.</message>
+	<message name="msg42">Error 42: The file is not found.</message>
+</messages>
