@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><blockquote>
+	<blockquote>first</blockquote>
+	<blockquote>1</blockquote>
+	<blockquote>
+		<blockquote>class</blockquote>
+		<blockquote>class2</blockquote>
+	</blockquote>
+</blockquote>

@@ -1,0 +1,10 @@
+﻿<?xml version='1.0'?>
+<?xml-stylesheet type="text/xsl" href="current.xsl" ?>
+<nodes>
+	<node>first</node>
+<node>1</node>
+	<node>
+		<obj>class</obj>
+		<obj>class2</obj>
+	</node>
+</nodes>
